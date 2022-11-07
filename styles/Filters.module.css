@@ -1,3 +1,32 @@
-.isClicked{
-    background-color: blue;
+.navbar{
+    padding: 2% 2% 1%;
+    border-bottom: 2px solid #707070;
+
+}
+.navbar h1{
+    color: #2052A2;
+}
+.searchBar{
+    border: 1px solid #F4F4F4;
+    color: #F4F4F4;
+    border-radius: 5px;
+    padding:0.5% 1%;
+}
+
+.filterSection{
+    padding:3%;
+}
+
+.buttun{
+    margin:2%;
+    border-radius: 10px;
+    padding: 2% 4%;
+    border: 1px solid #1A1A1A;
+    color: black;
+    background-color: #F4F4F4;
+}
+
+.mainBody{
+    padding:5%;
+    background-color: #F4F4F4;
 }
